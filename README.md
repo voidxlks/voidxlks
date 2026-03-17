@@ -3,9 +3,8 @@
 
 
 ## 🧠 About Me
-I build random (but cool) stuff in the void.  
-I'm currently learning JavaScript with AI and working with Flask.  
-Still new, still learning — but evolving fast.
+I build random (but cool) stuff On GitHub.  
+I'm currently learning JavaScript with AI and working with Flask.
 
 ---
 
