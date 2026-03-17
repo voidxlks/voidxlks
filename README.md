@@ -13,7 +13,7 @@ I'm currently learning JavaScript with AI and working with Flask.
 
 ---
 
-## 🚀 Void Stats
+## 🚀 GitHub Stats
 ![Void Stats](https://github-readme-stats.vercel.app/api?username=voidxlks&show_icons=true&theme=radical&title_color=ff00ff&icon_color=ff00ff&text_color=c084fc&bg_color=0d0d0d)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidxlks&layout=compact&theme=radical&title_color=ff00ff&text_color=c084fc&bg_color=0d0d0d)
