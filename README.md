@@ -1,16 +1,38 @@
-# Hi, I'm Void  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi, I'm Void  
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" />
 
 
-## 🛠️ Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,astro,flask,go,bash,rust,unrealengine,bootstrap)](#)
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Void's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidxlks&show_icons=true&theme=ambient_gradient)
-### Stuff and things
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started a few weeks ago, so my GitHub stats are kind of bad,
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
--  I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
--  I would like if you starred some of my repositories  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
--  Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="20" height="20" align="center" />
-](https://github.com/cookiexlks)
- <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
- <img src="https://raw.githubusercontent.com/voidxlks/void
+## 🧠 About Me
+I build random (but cool) stuff in the void.  
+I'm currently learning JavaScript with AI and working with Flask.  
+Still new, still learning — but evolving fast.
+
+---
+
+## 🛠️ Languages & Tools
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,go,rust,bash,cpp,c,cs,php,astro,flask,bootstrap,tailwind,github,git,linux,unrealengine,blender,vscode,figma)](#)
+
+---
+
+## 🚀 Void Stats
+![Void Stats](https://github-readme-stats.vercel.app/api?username=voidxlks&show_icons=true&theme=radical&title_color=ff00ff&icon_color=ff00ff&text_color=c084fc&bg_color=0d0d0d)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidxlks&layout=compact&theme=radical&title_color=ff00ff&text_color=c084fc&bg_color=0d0d0d)
+
+---
+
+## 🧩 Stuff & Things
+- 🆕 I just started recently, so yeah… stats are kinda mid (for now 👀)
+- 🎮 I play games AND touch grass
+- 🤝 I’d appreciate help on my projects
+- ⭐ Star my repos if you like them
+- 💀 Trying to beat my friend:  
+  👉 https://github.com/cookiexlks
+
+---
+
+## 🕳️ Void Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voidxlks&bg_color=000000&color=ff00ff&line=ff00ff&point=c084fc&area=true&hide_border=true"/>
+
+---
+
