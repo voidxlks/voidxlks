@@ -6,7 +6,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Void Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=voidxlks&show_icons=true&theme=radical&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&bg_color=0,0d0d0d,1a001a)
+![Void Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=voidxlks&show_icons=true&theme=ambient_gradient)
 
 ### Stuff and Things
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started recently, so my GitHub stats are kind of bad,
