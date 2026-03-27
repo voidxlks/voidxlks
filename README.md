@@ -6,7 +6,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Void's GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidxlks&show_icons=true&theme=radical&title_color=ff00ff&icon_color=ff00ff&text_color=c084fc&bg_color=0d0d0d)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=Voidxlks%20Stats&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Power%20Level%2088%%20|%20JS%2072%%20|%20Python%2066%%20&descAlign=50&descAlignY=70"/>
 
 
 
