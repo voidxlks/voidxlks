@@ -9,7 +9,7 @@
 ![Void's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=voidxlks&show_icons=true&theme=default&title_color=ffffff&icon_color=bbbbbb&text_color=e5e5e5&bg_color=0,000000,111111,1a1a1a)
 
 ### Stuff and Things
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started recently, so my GitHub stats are kind of bad,
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started a few weeks ago, so my GitHub stats are kind of bad,
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
 -  I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 -  I would like if you starred some of my repositories  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
