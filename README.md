@@ -1,5 +1,5 @@
-# Hi, I'm Void <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" />
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-dance.gif" width="40" />
+# Hi, I'm Void <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" /> <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-dance.gif" width="40" />
+
 
 ## 🛠️ Languages & Tools
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,go,rust,bash,cpp,c,cs,php,astro,flask,bootstrap,tailwind,github,git,linux,unrealengine,blender,vscode,figma)](#)
