@@ -14,6 +14,6 @@
 -  I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 -  I would like if you starred some of my repositories  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
 -
-- I, will be quitting Github Soon so yea, <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Person leaving" width="500">
+- I, will be quitting Github Soon so yea, <img src="https://media.tenor.com/8z7v3q9X3CMAAAAi/crying-emoji.gif" width="40" alt="Crying emoji">
 - Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="20" height="20" align="center" />
 ](https://github.com/cookiexlks)
