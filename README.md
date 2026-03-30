@@ -13,6 +13,6 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
 -  I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 -  I would like if you starred some of my repositories  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
-- I, will be quitting Github Soon so yea. But you can Still view my projects after i quit, <img src="https://media.giphy.com/media/ROF8OQvDmxytW/giphy.gif" width="40" alt="crying emoji">
+- I, will be quitting Github Soon so yea. But you can Still view my projects after i quit,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Face.png" width="40" alt="crying emoji">
 - Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="20" height="20" align="center" />
 ](https://github.com/cookiexlks)
