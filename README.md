@@ -15,5 +15,6 @@
 -  I would like if you starred some of my repositories  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
 - Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="20" height="20" align="center" />
 ](https://github.com/cookiexlks)
-Oh and also i kinda Made a Cool thing Check it [out. <img src="https://raw.githubusercontent.com/tarikul-islam/Animated-Fluent-Emojis/master/Emojis/Objects/Skull.png" width="40">
+
+- Oh and also i kinda Made a Cool thing Check it [out. <img src="https://raw.githubusercontent.com/tarikul-islam/Animated-Fluent-Emojis/master/Emojis/Objects/Skull.png" width="40">
 ](https://voidlks.github.io)
