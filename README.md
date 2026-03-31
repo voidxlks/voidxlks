@@ -16,4 +16,4 @@
 - Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="20" height="20" align="center" />
 ](https://github.com/cookiexlks)
 
-Also made a [thing. <img src="https://raw.githubusercontent.com/tarikul-islam/Animated-Fluent-Emojis/master/Emojis/Objects/Skull.gif" width="40"> ](voidxlks.github.io)
+ - Also made a [thing. <img src="https://raw.githubusercontent.com/tarikul-islam/Animated-Fluent-Emojis/master/Emojis/Objects/Skull.gif" width="40"> ](voidxlks.github.io)
