@@ -6,8 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
 
-![Void's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=voidxlks&show_icons=true&bg_color=0d1117,1f1c2c,928dab&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true)
-
+![Void Stats](https://void-stats.vercel.app/api?username=voidxlks&show_icons=true&bg_color=0d1117,1f1c2c,928dab&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true)
 ### Stuff and Things
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started a few weeks ago, so my GitHub stats are kind of bad,
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
